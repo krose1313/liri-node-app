@@ -1,3 +1,4 @@
+require('dotenv').config()
 
 //required the Twitter and Spotify keys and tokens
 var keys = require("./keys.js");

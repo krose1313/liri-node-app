@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/krose1313/liri-node-app#readme",
   "dependencies": {
+    "dotenv": "^4.0.0",
     "twitter": "^1.7.1"
   }
 }
